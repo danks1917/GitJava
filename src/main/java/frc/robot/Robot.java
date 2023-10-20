@@ -55,6 +55,8 @@ public class Robot extends TimedRobot {
   static double TempoAtualAceleracao;
   static double VelocidadeMin;
   static double DirecaoAnterior_Analog_Y;
+  static double Teste;
+  static double Socorro;
 
   static double ErroGiro;
 
